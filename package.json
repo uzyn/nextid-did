@@ -1,0 +1,19 @@
+{
+  "name": "nextid-did",
+  "version": "0.1.0",
+  "description": "DID specifications for NextID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzyn/nextid-did.git"
+  },
+  "author": "U-Zyn Chua <uzyn@zynesis.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uzyn/nextid-did/issues"
+  },
+  "homepage": "https://github.com/uzyn/nextid-did#readme"
+}
